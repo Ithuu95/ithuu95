@@ -1,4 +1,5 @@
 ## Olá! Eu sou o Italo Valente 👋
+- Dev - Junior
 - 🔭 Hoje trabalho como Designer Grafico
 - 🌱 Estudando ADS - 
 <div style="display: inline_block"><br>
