@@ -8,7 +8,7 @@
   <img align="center" alt="ithuu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="ithuu-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" alt="ithuu-PS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
-  <img align="center" alt="ithuu-PS" height="40" width="50" src="">
+
 </div>
 
 ##
