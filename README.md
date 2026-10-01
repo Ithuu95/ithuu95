@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Italo Valente 👋
 - Dev - Junior
 - 🔭 Hoje trabalho como Designer Grafico
-- 🌱 Estudando ADS - 
+- 🖥️ Analista de Desenvolvimento de Sistemas
 <div style="display: inline_block"><br>
   <img align="center" alt="ithuu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ithuu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
